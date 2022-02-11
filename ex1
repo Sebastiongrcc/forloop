@@ -14,3 +14,11 @@ int main() {
 
    return 0;
 }
+
+// First, read in an input value for variable inCount. Then, read inCount integers from input and output each integer on a newline followed by the string " bananas.".
+
+Ex: If the input is 3 65 35 40, the output is:
+
+65 bananas.
+35 bananas.
+40 bananas. //

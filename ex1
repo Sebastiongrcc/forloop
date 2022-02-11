@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+   int inCount;
+   int i; 
+   
+   cin >> inCount;
+   
+   for ( i = 0; inCount > i; ++i ) {
+      cin >> inCount;
+      cout << inCount << " bananas." << endl;
+      }
+
+   return 0;
+}
